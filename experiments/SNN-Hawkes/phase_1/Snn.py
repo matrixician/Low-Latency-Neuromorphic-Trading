@@ -12,7 +12,7 @@ import numpy as np
 import torch
 import torch.nn as nn
 
-
+s
 # ---------------------------------------------------------------- surrogate
 class FastSigmoidSpike(torch.autograd.Function):
     """Heaviside forward; smooth surrogate gradient on the backward pass."""
