@@ -1,0 +1,1 @@
+This experiment explores using SELMA (spiking extreme learning machines) as a low power, low latency alternative to traditional quant finance kalman filters, specifically its advantage in market regime changes.
